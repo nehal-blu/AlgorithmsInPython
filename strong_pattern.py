@@ -1,0 +1,2 @@
+heartland_api_key="skapi_cert_MbS5BQCnonAA5nS9W-pEB0i5FcLoXRqtEmdN0vKahQ"
+Adafruit_api_key="aio_bCFj22OdUJKPbmr23Lr5zXJ1LAoJ"
